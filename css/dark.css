@@ -1,0 +1,134 @@
+
+
+.darkmode {
+  background-color: rgb(10, 10, 10);
+  color: #fff;
+  transition: 0.5s;
+}
+
+
+.darkmode h2 {
+    color: #fff !important;
+  }
+  
+  .darkmode h3 {
+    color: #fff !important;
+  }
+
+  .darkmode .single_team_title h4 {
+    color: rgb(21, 144, 202) !important;
+  }
+
+  .darkmode p {
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  .darkmode h2 a{
+    color: #fff !important;
+  }
+
+  .darkmode h3 a {
+    color: #fff !important;
+  }
+
+  .darkmode h5 a {
+    color: #fff !important;
+  }
+
+  .darkmode .footer_icon a{
+    color: #fff !important;
+    background-color: rgb(10, 10, 10);
+  }
+  
+  .darkmode .brand img {
+    filter: brightness(20);
+  }
+
+ .darkmode .testi-author-title p{
+    color: rgb(21, 144, 202);
+ }
+
+ .darkmode .project-icon img{
+    filter: brightness(20);
+ }
+
+  
+  .darkmode .counter-box,
+  .darkmode .counter-section,
+  .darkmode .brand,
+  .darkmode .team_area{
+    background-color: rgb(10, 10, 10);
+  }
+
+  .darkmode .footer-area,
+  .darkmode .project-section,
+  .darkmode .service-section{
+    background-image: url(../images/inner/ser-dark.png);
+  }
+  
+  .darkmode .project-content{
+    background-color: rgb(10, 10, 10);
+  }
+
+  .darkmode .single_team_content{
+    background-color: rgb(10, 10, 10);
+  }
+
+  .darkmode .upper{
+   border-color: rgb(10, 10, 10);
+  }
+
+  .darkmode .about-single-box,
+  .darkmode .service-content,
+  .darkmode .feature-inner-box,
+  .darkmode .feature-out-box,
+  .darkmode .about-iner-section{
+    background-color: rgb(10, 10, 10) !important;
+  }
+
+/*
+<!-- =======================================-->
+<!--inner Dark Css-->
+<!-- =======================================-->*/
+
+.darkmode .service-area-details,
+.darkmode .single-subscribe-box,
+.darkmode .service-list-left,
+.darkmode .single-widget-item,
+.darkmode .service-single-details {
+  background-color: rgb(10, 10, 10) !important;
+}
+
+.darkmode .form-box textarea,
+.darkmode .form-box input,
+.darkmode .service-list-left input {
+  background-color: rgb(10, 10, 10) !important;
+}
+
+.darkmode .single-box,
+.darkmode .subscribe-section,
+.darkmode .blog-content {
+  background-color: rgb(10, 10, 10) !important;
+}
+
+.darkmode .recent-post-item ul li a{
+  color: #fff !important;
+}
+
+.darkmode .video-icon a{
+  background-color: rgb(10, 10, 10) !important;
+}
+
+.darkmode .breadcumb-area::before {
+	position: absolute;
+	content: '';
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #000000;
+	opacity: 50%;
+	z-index: -1;
+}
+
+

@@ -1,0 +1,572 @@
+/* Normal desktop :1400px. */
+@media (min-width: 1400px) and (max-width: 1600px) {
+
+
+
+
+}
+
+/* Normal desktop :1300px. */
+@media (min-width: 1300px) and (max-width: 1399px) {
+
+.about-shape {
+    left: 0px;
+}
+
+.sub-titles h3 {
+    font-size: 21px;
+}
+
+/*==========project-section=============*/
+.project-icon {
+    top: 260px;
+}
+
+/*==========blog-section=============*/
+.blog-content {
+    padding: 0px 25px 32px 20px;
+}
+
+/*==========feature-section=============*/
+.feature-out-box {
+    padding: 0px 20px 8px;
+}
+
+}
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1299px) {
+
+.about-shape {
+    left: -60px;
+}
+
+/*========About-section===========*/
+.sub-titles h3 {
+    font-size: 20px;
+}
+
+/*========project Area responsive===========*/
+
+.project-icon {
+    top: 260px;
+}
+
+/*========blog-section===========*/
+.blog-content {
+    padding: 0px 20px 32px 24px;
+}
+
+/*==========feature-section=============*/
+.feature-out-box {
+    padding: 0px 20px 8px;
+}
+
+}
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+.Technology_nav_manu {
+  margin-bottom: -145px;
+  padding: 15px 0 15px;
+}   
+
+.Technology_menu>ul>li {
+    margin-right: 20px;
+}
+
+.searchs-box-btn.searchs-box-outer {
+    margin-left: 15px;
+}
+
+/*========silder-responsive===========*/
+.slider-area {
+  height: 720px;
+}
+
+.slider-title h1 {
+    font-size: 45px;
+}
+
+/*========about Area responsive===========*/
+.about-shape {
+    left: -135px;
+}
+
+.about-shape-iner {
+    right: -160px;
+}
+
+.about-single-box {
+    padding: 35px 5px 35px;
+}
+
+.about-iner-thumb img {
+    width: 100%;
+}
+
+.sub-titles h3 {
+    font-size: 21px;
+}
+
+/*========team Area responsive===========*/
+.single_team_icon {
+    left: 42%;
+    width: 100%;
+}
+
+/*========feature Area responsive===========*/
+.feature-content h2 {
+    font-size: 20px;
+}
+
+/*========project Area responsive===========*/
+.project-sub-title h3 a {
+    font-size: 20px;
+}
+
+.project-icon {
+    top: 210px;
+}
+
+/*========service Area responsive===========*/
+.services-two-box {
+    padding: 32px 20px 32px;
+}
+
+.rpost-content h5 a {
+   margin-top: -15px;
+}
+
+/*========blog Area responsive===========*/
+.blog-info h2 a {
+    font-size: 23px;
+}
+
+.blog-content {
+    padding: 0px 8px 32px 10px;
+}
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.Technology_nav_manu {
+    display: none;
+}
+
+.sticky {
+    position: absolute !important;
+}
+
+/*========slide-responsive===========*/
+.slider-area {
+    height: 650px;
+}
+
+.slider-title h1 {
+    font-size: 40px;
+}
+
+/*========About-responsive===========*/
+.about-shape {
+    display: none;
+}
+
+.about-thumb img {
+    width: 100%;
+    left: 0;
+    margin-bottom: 30px;
+}
+
+.section-title h2 {
+    font-size: 30px;
+}
+
+.about-shape-iner {
+    display: none;
+}
+
+.about-thumb-iner img {
+    width: 100%;
+    margin-top: 30px;
+    left: 0;
+}
+
+.about-iner-thumb img {
+    width: 100%;
+}
+
+/*========project Area responsive===========*/
+.project-icon {
+    top: 340px;
+}
+
+/*========blog Area responsive===========*/
+.service-list-left input[type="email"] {
+    width: 100% !important;
+}
+
+.blog-title h2 {
+    font-size: 35px;
+}
+
+}
+
+/* Tablet desktop :600px. */
+@media (min-width: 600px) and (max-width: 767px) {
+.Technology_nav_manu {
+    display: none;
+}
+
+.sticky {
+    position: absolute !important;
+}
+
+/*========slider-responsive===========*/
+.slider-area {
+  height: 600px;
+}
+
+.slider-title h1 {
+    font-size: 35px;
+}
+
+/*========About-responsive===========*/
+.about-shape {
+    display: none;
+}
+
+.about-thumb img {
+    width: 100%;
+    left: 0;
+    margin-bottom: 30px;
+}
+
+.section-title h2 {
+    font-size: 30px;
+}
+
+.about-shape-iner {
+    display: none;
+}
+
+.about-thumb-iner img {
+    width: 100%;
+    left: 0;
+    margin-top: 30px;
+}
+
+.about-iner-thumb img {
+    width: 100%;
+}
+
+/*========feature Area responsive===========*/
+.feature-out-box {
+    padding: 0px 35px 5px;
+}
+
+
+/*========project Area responsive===========*/
+.project-icon {
+    top: 540px;
+}
+
+/*========team Area responsive===========*/
+.single_team_icon {
+    left: 55%;
+}
+
+/*========footer Area responsive===========*/
+.footer-widget-contact {
+    text-align: center;
+}
+
+.footer-disc {
+    text-align: -webkit-center;
+}
+
+.footer-widget-content {
+    text-align: center;
+}
+
+/*========blog-details Area responsive===========*/
+.service-list-left input[type="email"] {
+    width: 100% !important;
+}
+
+.blog-title h2 {
+    font-size: 28px;
+}
+
+}
+
+
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+.Technology_nav_manu {
+    display: none;
+}
+
+.sticky {
+    position: absolute !important;
+}
+
+/*========slider-responsive===========*/
+.slider-area {
+    height: 600px;
+  }
+
+  .slider-title h1 {
+    font-size: 30px;
+}
+
+/*========About-responsive===========*/
+.about-shape {
+    display: none;
+}
+
+.about-thumb img {
+    width: 100%;
+    left: 0;
+    margin-bottom: 30px;
+}
+
+.section-title h2 {
+    font-size: 28px;
+}
+
+.about-shape-iner {
+    display: none;
+}
+
+.about-thumb-iner img {
+    width: 100%;
+    left: 0;
+    margin-top: 30px;
+}
+
+.about-iner-thumb img {
+    width: 100%;
+}
+
+/*========service Area responsive===========*/
+.services-disc p {
+    font-size: 14px;
+}
+
+/*========team Area responsive===========*/
+.single_team_icon {
+    left: 55%;
+}
+
+/*========feature Area responsive===========*/
+.feature-inner-box {
+    padding: 40px 0px 30px;
+}
+
+.feature-content p {
+    font-size: 15px;
+}
+
+/*========project Area responsive===========*/
+.project-sub-title p {
+    font-size: 14px;
+}
+
+.project-icon {
+    top: 470px;
+}
+
+.project-button a {
+    font-size: 16px;
+}
+
+/*========counter Area responsive===========*/
+.counter-title h1 {
+    font-size: 30px;
+}
+
+/*========footer Area responsive===========*/
+.footer-widget-contact {
+    text-align: center;
+}
+
+.footer-disc {
+    text-align: -webkit-center;
+}
+
+.footer-widget-content {
+    text-align: center;
+}
+
+/*========breadcumb Area responsive===========*/
+.breadcumb-title h1 {
+    font-size: 35px;
+}
+
+/*========blog Area responsive===========*/
+.blog-info h2 a {
+    font-size: 22px;
+}
+
+.blog-title h2 {
+    font-size: 25px;
+}
+
+}
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+.Technology_nav_manu {
+    display: none;
+}
+
+.sticky {
+    position: absolute !important;
+}
+
+/*========slider-responsive===========*/
+.slider-area {
+    height: 550px;
+  }
+
+.slider-title h1 {
+    font-size: 30px;
+}
+
+.slider-title p {
+    font-size: 16px;
+    margin-top: 12px;
+   line-height: 1.72;
+}
+
+.section-title h2 {
+    font-size: 23px;
+}
+
+.section-button a {
+    font-size: 15px;
+    padding: 10px 30px;
+}
+
+.section-button a i {
+    top: 12px;
+}
+
+.section-button-one a span {
+    font-size: 15px;
+}
+
+.section-button-one a img {
+    width: 22%;
+}
+
+.section-button-one {
+    margin-left: 15px;
+}
+
+/*========About-responsive===========*/
+.about-shape {
+    display: none;
+}
+
+.about-thumb img {
+    width: 100%;
+    left: 0;
+    margin-bottom: 30px;
+}
+
+.about-shape-iner {
+    display: none;
+}
+
+.about-thumb-iner img {
+    width: 100%;
+    left: 0;
+    margin-top: 30px;
+}
+
+.about-iner-thumb img {
+    width: 100%;
+}
+
+.video-icon {
+    display: none;
+}
+
+/*========project Area responsive===========*/
+.project-icon {
+    top: 295px;
+}
+
+/*========counter Area responsive===========*/
+.counter-title h1 {
+    font-size: 30px;
+}
+
+/*========footer Area responsive===========*/
+.footer-widget-contact {
+    text-align: center;
+}
+
+.footer-disc {
+    text-align: -webkit-center;
+}
+
+.footer-widget-content {
+    text-align: center;
+}
+
+/*========breadcumb Area responsive===========*/
+.breadcumb-title h1 {
+    font-size: 30px;
+}
+
+/*========blog-details Area responsive===========*/
+.service-description h3 a {
+    font-size: 22px;
+}
+
+.service-details-meta span {
+    margin: 0 7px 0;
+}
+
+.service-details-social-icon ul li a {
+    margin-left: 8px;
+}
+
+.form-button button {
+    font-size: 16px;
+}
+
+/*========blog Area responsive===========*/
+.blog-info h2 a {
+    font-size: 22px;
+}
+
+.rpost-content h5 a {
+    font-size: 18px;
+}
+
+.blog-title h2 {
+    font-size: 25px;
+}
+
+/*=========service Area responsive===========*/
+.service-single-details {
+    padding: 30px 5px 25px;
+}
+
+.single-subscribe-box {
+    padding: 20px 12px 28px;
+}
+
+.single-widget-item {
+    padding: 20px 5px 20px;
+}
+
+}
